@@ -1,0 +1,34 @@
+{
+    "books": [
+        {
+            "book_id": "012",
+            "title": "Hello HI",
+            "author": "Lokesh Tushir",
+            "is_available": false,
+            "times_borrowed": 1
+        },
+        {
+            "book_id": "012",
+            "title": "Haryana",
+            "author": "Lokesh Tushir",
+            "is_available": true,
+            "times_borrowed": 0
+        },
+        {
+            "book_id": "0000",
+            "title": "JAAT",
+            "author": "Lokesh Tushir",
+            "is_available": true,
+            "times_borrowed": 0
+        }
+    ],
+    "members": [
+        {
+            "member_id": "Lokesh",
+            "name": "Lokesh",
+            "borrowed_books": [
+                "012"
+            ]
+        }
+    ]
+}
